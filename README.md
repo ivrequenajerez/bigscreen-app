@@ -1,4 +1,3 @@
-```
 # 🎬 Orka TV – Big Screen App (React Native TV / Expo 2025)
 
 **Author:** Ian Requena – Full Stack Developer  
@@ -20,7 +19,7 @@
 
 ## 🧩 Folder Structure (Feature-Based / DDD)
 
-
+```
 src/
 ├─ features/
 │  └─ live-tv/        # Main feature (video player, overlay, channel rail)
